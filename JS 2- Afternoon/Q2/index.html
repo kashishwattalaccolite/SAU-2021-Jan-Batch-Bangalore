@@ -1,0 +1,66 @@
+<html>   
+   <head>
+      <title>Form Validation</title>      
+      <script type = "text/javascript" src= "./js2.js">              
+      </script>      
+   </head>
+   
+   <body>
+      
+         <table cellspacing = "2" cellpadding = "2" border = "1">
+            
+            <tr>
+               <td align = "right">First Name</td>
+               <td><input type = "text" name = "firstname" /></td>
+            </tr>
+
+            <tr>
+               <td align = "right">Last Name</td>
+               <td><input type = "text" name = "lastname" /></td>
+            </tr>
+
+            <tr>
+               <td align = "right">Roll Number</td>
+               <td><input type = "number" name = "roll" /></td>
+            </tr>
+            
+            <tr>
+               <td align = "right">Age</td>
+               <td><input type = "number" name = "age" /></td>
+            </tr>
+
+            <tr>
+                <td align = "right">Gender</td>
+                <td>
+                    <input type="radio" id="male" name="Gender" value="male">
+                    <label for="male">Male</label><br>
+                    <input type="radio" id="female" name="Gender" value="female">
+                    <label for="female">Female</label><br>
+                    <input type="radio" id="other" name="Gender" value="other">
+                    <label for="other">Other</label>
+                </td>
+             </tr>
+
+             <tr>
+               <td align = "right">DOB (DD/MM/YYYY)</td>
+               <td><input type = "text" name = "dob" /></td>
+            </tr>
+            
+            <tr>
+               <td align = "right"><input type = "text" name = "occ" /></td>
+               <td><button onClick="addOccupation()">Add Occupation</button></td>
+            </tr>
+
+            <tr>
+               <td><button onClick="main()">Submit</button></td>
+            </tr>
+
+            <tr>
+               <td align = "right"><input type = "text" name = "rollsearch" /></td>
+               <td><button onClick="searchroll()">Enter Roll No. to search details</button>></td>
+            </tr>
+            
+         </table>
+          
+   </body>
+</html>
