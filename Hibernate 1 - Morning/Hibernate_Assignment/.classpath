@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="main/|main/java/|main/resources/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry excluding="java/|resources/" kind="src" path="src/main"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Downloads/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/agroal-api-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/agroal-pool-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/byte-buddy-1.10.17.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/c3p0-0.9.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/cache-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/checker-qual-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/dom4j-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/ehcache-2.10.6.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/geolatte-geom-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-agroal-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-c3p0-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-core-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-ehcache-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-envers-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-hikaricp-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-jcache-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-jpamodelgen-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-osgi-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-proxool-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-spatial-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/hibernate-vibur-5.4.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/HikariCP-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/jandex-2.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/jts-core-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/mchange-commons-java-0.2.19.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/org.osgi.compendium-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/org.osgi.core-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/postgresql-42.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/vibur-dbcp-25.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate-release-5.4.27.Final/Hibernate.jars/vibur-object-pool-25.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
