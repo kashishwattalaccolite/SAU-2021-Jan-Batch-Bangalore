@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/aopalliance-.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/asm-all-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/aspectjrt-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/aspectj-weaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-aop-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-aop-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-aop-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-aspects-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-aspects-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-aspects-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-beans-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-beans-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-beans-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-indexer-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-indexer-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-indexer-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-support-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-support-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-context-support-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-core-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-core-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-core-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-expression-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-expression-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-expression-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-instrument-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-instrument-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-instrument-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jcl-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jcl-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jcl-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jdbc-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jdbc-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jdbc-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jms-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jms-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-jms-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-messaging-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-messaging-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-messaging-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-orm-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-orm-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-orm-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-oxm-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-oxm-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-oxm-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-r2dbc-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-r2dbc-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-r2dbc-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-test-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-test-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-test-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-tx-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-tx-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-tx-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-web-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-web-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-web-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-webflux-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-webflux-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-webflux-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-webmvc-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-webmvc-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-webmvc-5.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-websocket-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-websocket-5.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kashish/Desktop/Spring jars/spring-websocket-5.3.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

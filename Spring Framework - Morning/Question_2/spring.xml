@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING/DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans> <!-- global- default-init-method="onInit" default-destroy-method="onCleanup" -->
+  
+  <bean id="collect2" class="com.au.spring.Collect2">
+    <property name="multiplyby2">
+	  <map>
+	            <entry key="${entry1.key}" value="${entry1.value}" />
+	            <entry key="${entry2.key}" value="${entry2.value}" />
+	            <entry key="${entry3.key}" value="${entry3.value}" />
+	  </map>
+  </property>
+  <property name="hset">
+	  <set>
+	            <value>${set.value1}</value>
+	            <value>${set.value2}</value>
+	            <value>${set.value3}</value>
+	  </set>
+  </property>
+  </bean>
+ 
+  
+ 
+  <bean class="com.au.spring.MyBeanFactoryPP"> </bean>
+  
+  <!-- Externalize properties -->
+  <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+     <property name="locations" value="pointsConfig.properties">
+     </property>
+  </bean>
+  
+  <!-- @Autowired annotation is a postprocessor -->
+  <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"></bean>
+  
+</beans>
